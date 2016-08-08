@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="126px" height="64px" viewBox="0 0 126 64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.1 (8751) - http://www.bohemiancoding.com/sketch -->
+    <title>Group</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="Artboard-16" sketch:type="MSArtboardGroup" transform="translate(-30.000000, -22.000000)">
+            <g id="Group" sketch:type="MSLayerGroup" transform="translate(34.000000, 24.000000)">
+                <g id="Oval-1-+-Oval-3" transform="translate(63.223512, -0.240082)" fill="#FFFFFF" sketch:type="MSShapeGroup">
+                    <path d="M46.6598068,34.4300651 C51.2848489,34.0338593 54.9224809,29.9011033 54.9224809,24.8612687 C54.9224809,19.7913916 51.241352,15.6394397 46.5769927,15.2857858 C45.7355903,6.70310161 38.586353,0 29.8914387,0 C22.6726203,0 16.5192206,4.6203772 14.1564891,11.1007671 C13.353708,10.9238506 12.5200753,10.8306517 11.6649517,10.8306517 C5.22257677,10.8306517 0,16.1205222 0,22.6459081 C0,29.171294 5.22257677,34.4611645 11.6649517,34.4611645 L46.6598068,34.4611645 L46.6598068,34.4300651 Z" id="Oval-1"></path>
+                </g>
+                <g id="Oval-1-+-Oval-2" transform="translate(-0.145993, 0.029146)" fill="#FFFFFF" sketch:type="MSShapeGroup">
+                    <path d="M76.5655408,55.410886 C84.1549175,54.7732422 90.1240219,48.1220882 90.1240219,40.0111042 C90.1240219,31.8517709 84.083542,25.1697233 76.4296486,24.6005615 C75.0489649,10.7878042 63.3175572,0 49.0497995,0 C37.2042139,0 27.1069074,7.43591955 23.2298272,17.865297 C21.9125184,17.5805721 20.5445843,17.4305801 19.1413852,17.4305801 C8.56989006,17.4305801 0,25.9439654 0,36.4457583 C0,46.9475513 8.56989006,55.4609366 19.1413852,55.4609366 L76.5655408,55.4609366 L76.5655408,55.410886 Z" id="Oval-1"></path>
+                </g>
+                <g id="Oval-4-+-Oval-5-+-Oval-9-+-Oval-4-+-Oval-5-+-Oval-8" transform="translate(27.685436, 15.913589)" sketch:type="MSShapeGroup">
+                    <g id="Oval-4-+-Oval-5-+-Oval-9" transform="translate(6.999924, 6.999924) rotate(352.000000) translate(-6.999924, -6.999924) translate(1.076911, 1.076911)">
+                        <ellipse id="Oval-4" fill="#DDDCDC" cx="5.92301264" cy="5.92301264" rx="5.92301264" ry="5.92301264"></ellipse>
+                        <ellipse id="Oval-5" fill="#A4A4A4" cx="4.30764556" cy="4.30764556" rx="3.23073417" ry="3.23073417"></ellipse>
+                        <ellipse id="Oval-6" fill="#FFFFFF" cx="2.15382278" cy="3.23073417" rx="1.07691139" ry="1.07691139"></ellipse>
+                    </g>
+                    <g id="Oval-4-+-Oval-5-+-Oval-8" transform="translate(27.730468, 6.999924) rotate(352.000000) translate(-27.730468, -6.999924) translate(21.807456, 1.076911)">
+                        <ellipse id="Oval-4" fill="#DDDCDC" cx="5.92301264" cy="5.92301264" rx="5.92301264" ry="5.92301264"></ellipse>
+                        <ellipse id="Oval-5" fill="#A4A4A4" cx="4.30764556" cy="4.30764556" rx="3.23073417" ry="3.23073417"></ellipse>
+                        <ellipse id="Oval-6" fill="#FFFFFF" cx="2.15382278" cy="3.23073417" rx="1.07691139" ry="1.07691139"></ellipse>
+                    </g>
+                </g>
+                <g id="Oval-38-+-Oval-40" transform="translate(32.800765, 35.297994)" sketch:type="MSShapeGroup">
+                    <path d="M12.1152531,11.8460253 C21.3621942,11.8460253 24.2822809,-0.0621295033 24.2822809,-0.0621295033 L-0.051774586,-0.0621295033 C-0.051774586,-0.0621295033 2.86831207,11.8460253 12.1152531,11.8460253 Z" id="Oval-38" fill="#E8E8E8"></path>
+                    <path d="M2.84228746,6.31815108 C4.7441664,9.14654828 7.71258783,11.8460253 12.1152531,11.8460253 C16.6411031,11.8460253 19.6513274,8.99337455 21.5453633,6.08049258 C23.5211062,3.04195151 0.749640061,3.20605079 2.84228746,6.31815108 Z" id="Oval-39" fill="#F6BDE3"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

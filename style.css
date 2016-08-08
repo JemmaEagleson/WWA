@@ -1,0 +1,101 @@
+/* Removing margin and padding from everything. */
+
+* {
+	margin: 0 auto;
+	padding: 25px ;
+	}
+
+
+/* Basic body styling. */
+
+body {
+	color: white;
+	background: #7EC0EE;
+    padding: ;
+    width: 750px ;
+	font: 60% "Avenir";
+    font-weight: lighter
+	}
+
+
+/* The CSS for the form. */
+
+#locationForm {
+	width: 90%;
+	height: 14em;
+	max-width: 60em;
+	margin: 16em auto;
+	}
+
+#locationForm label {
+	display: block;
+	font-size: 4em;
+	font-weight: lighter;
+	}
+
+#locationForm input[type="text"] {
+	display: block;
+	float: left;
+	width: 75%;
+	margin-top: 0.8em;
+	padding: 0.75em;
+	color: #999;
+	font-size: 0.8em;
+	border-radius: 90px;
+	box-sizing: border-box;
+	border: 0.20em solid #b1ddf8;
+	-webkit-appearance: none;
+	outline: none;
+	}
+
+/* This is our error style, in case someone submits the form without entering a city. */
+
+.error {
+	border: 0.15em solid rgba(204, 51, 51, 0.75) !important;	
+	}
+
+#locationForm button {
+	float: right;
+	width: 20%;
+	cursor: pointer;
+	padding: 0.75em ;
+	margin: 0.8em 0 0 0.6em;
+	color: white;
+	font-size: 0.8em;
+	font-weight: bold;
+	text-align: center;
+	box-sizing: border-box;
+	background: #4EA7E5;
+	border: none;
+	border-radius: 90px;
+	outline: none;
+    box-shadow: 0px 6px 0px 0px #328CCA;
+	}
+
+#weather {
+	display: none;
+	width: 90%;
+	max-width: 30em;
+	margin: 16em auto;
+	text-align: center;
+	}
+
+#weather p {
+	margin-top: 1em;
+	font-size: 3em;
+	font-weight: bold;
+	}
+
+#locationForm button:hover {
+	background: #FFED5D;
+	}
+
+img {
+     width: 60%;
+    height: auto; 
+}
+
+img src="images/logo.svg" {
+    
+
+}

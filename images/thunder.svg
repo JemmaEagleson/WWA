@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="112px" height="95px" viewBox="0 0 112 95" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.1 (8751) - http://www.bohemiancoding.com/sketch -->
+    <title>Group</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="Artboard-2" sketch:type="MSArtboardGroup" transform="translate(-37.000000, -12.000000)">
+            <g id="Group" sketch:type="MSLayerGroup" transform="translate(41.000000, 14.000000)">
+                <g id="Oval-1-+-Oval-2" fill="#FFFFFF" sketch:type="MSShapeGroup">
+                    <path d="M81,69.9947863 C93.7478376,69.7287031 104,59.311612 104,46.5 C104,33.5213084 93.4786916,23 80.5,23 C80.0138621,23 79.531172,23.0147614 79.0523533,23.0438604 C74.3286407,9.62124197 61.5379011,0 46.5,0 C27.4461761,0 12,15.4461761 12,34.5 C12,35.8351654 12.075845,37.1526162 12.2234615,38.4482792 C5.20945281,40.145522 0,46.4643945 0,54 C0,62.836556 7.163444,70 16,70 L81,70 L81,69.9947863 Z" id="Oval-1"></path>
+                </g>
+                <g id="Oval-4-+-Oval-5-+-Oval-6" transform="translate(40.500000, 26.000000) rotate(231.000000) translate(-40.500000, -26.000000) translate(35.000000, 20.500000)" sketch:type="MSShapeGroup">
+                    <circle id="Oval-4" fill="#DDDCDC" cx="5.5" cy="5.5" r="5.5"></circle>
+                    <circle id="Oval-5" fill="#A4A4A4" cx="4" cy="4" r="3"></circle>
+                    <circle id="Oval-6" fill="#FFFFFF" cx="2" cy="3" r="1"></circle>
+                </g>
+                <g id="Oval-4-+-Oval-5-+-Oval-7" transform="translate(60.500000, 26.000000) rotate(231.000000) translate(-60.500000, -26.000000) translate(55.000000, 20.500000)" sketch:type="MSShapeGroup">
+                    <circle id="Oval-4" fill="#DDDCDC" cx="5.5" cy="5.5" r="5.5"></circle>
+                    <circle id="Oval-5" fill="#A4A4A4" cx="4" cy="4" r="3"></circle>
+                    <circle id="Oval-6" fill="#FFFFFF" cx="2" cy="3" r="1"></circle>
+                </g>
+                <g id="Path-3-+-Path-4" transform="translate(35.000000, 40.780000)" sketch:type="MSShapeGroup">
+                    <path d="M5.73895774,3.84973285 C6.42893366,1.44744173 9.01105396,-0.5 11.5128607,-0.5 L25.7156505,-0.5 C28.2145132,-0.5 29.3856262,1.33650173 28.3311454,3.6024988 L23.6425188,13.6779913 C22.5881541,15.9437388 23.750231,17.7804901 26.2554596,17.7804901 L27.4195684,17.7804901 C29.9170205,17.7804901 30.6199817,19.3284604 29.0071292,21.2175366 L7.08713954,46.8916331 C5.46647308,48.7898616 3.57520999,48.3877649 3.09380072,45.944752 C3.09380072,45.944752 3.04324864,47.1205482 3.04324864,45.1205482 C3.04324864,43.1205482 6.78135148,31.4387909 6.78135148,31.4387909 C7.52205409,29.06666 6.08614289,27.1436679 3.59883395,27.1436679 L3.57225018,27.1436679 C1.07389167,27.1436679 -0.39312394,25.1998189 0.297883859,22.7939351 L5.73895774,3.84973285 Z" id="Path-3" fill="#FFED5D"></path>
+                    <path d="M5.99999999,43.9999997 C8.99999999,45.9999997 20.2174213,31.5126058 17.6649298,34.5022473 L7.09201923,46.8859177 C5.46865779,48.7873027 3.57520999,48.3877649 3.09380072,45.944752 C3.09380072,45.944752 3.04324864,47.1205482 3.04324864,45.1205482 C3.04324864,43.1205482 6.78135148,31.4387909 6.78135148,31.4387909 C6.78135148,31.4387909 2.99999999,41.9999997 5.99999999,43.9999997 Z" id="Path-4" fill="#E8D752"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

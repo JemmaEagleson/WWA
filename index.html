@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>Wee Weather App</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+
+<img src="images/logo.svg" alt="Wee Weather App Logo" />
+
+
+<!-- This is the form, where we enter a city. As you can see, we've included some placeholder text to guide the user. -->
+	
+<section id="locationForm">
+  <label>
+    Hey! Where are you today?
+    <input id="location" type="text" placeholder="eg. Belfast" />
+    <button id="btnGo">GO!</button>
+  </label>
+</section>
+
+
+<!-- This is where we display the relevant icon (SVG) and description when we've returned it from OpenWeatherMap. -->
+
+<section id="weather">
+  <img src="images/default.svg" id="weatherIcon" />
+  <p id="description"></p>
+</section>
+
+
+<!-- Here's the link to our JavaScript that works the magic. -->
+
+<script src="app.js"></script>
+</body>
+</html>

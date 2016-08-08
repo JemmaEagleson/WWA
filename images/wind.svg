@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="137px" height="78px" viewBox="0 0 137 78" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.1 (8751) - http://www.bohemiancoding.com/sketch -->
+    <title>Group</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <filter x="-50%" y="-50%" width="200%" height="200%" filterUnits="objectBoundingBox" id="filter-1">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="1" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.35 0" in="shadowBlurOuter1" type="matrix" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+        <filter x="-50%" y="-50%" width="200%" height="200%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="-1" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="1" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.35 0" in="shadowBlurOuter1" type="matrix" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+        <filter x="-50%" y="-50%" width="200%" height="200%" filterUnits="objectBoundingBox" id="filter-3">
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.35 0" in="shadowBlurOuter1" type="matrix" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="Artboard-3" sketch:type="MSArtboardGroup" transform="translate(-24.000000, -18.000000)">
+            <g id="Group" sketch:type="MSLayerGroup" transform="translate(28.000000, 20.000000)">
+                <g id="Oval-1-+-Oval-2" fill="#FFFFFF" sketch:type="MSShapeGroup">
+                    <path d="M81,69.9947863 C93.7478376,69.7287031 104,59.311612 104,46.5 C104,33.5213084 93.4786916,23 80.5,23 C80.0138621,23 79.531172,23.0147614 79.0523533,23.0438604 C74.3286407,9.62124197 61.5379011,0 46.5,0 C27.4461761,0 12,15.4461761 12,34.5 C12,35.8351654 12.075845,37.1526162 12.2234615,38.4482792 C5.20945281,40.145522 0,46.4643945 0,54 C0,62.836556 7.163444,70 16,70 L81,70 L81,69.9947863 Z" id="Oval-1"></path>
+                </g>
+                <g id="Oval-4-+-Oval-5-+-Oval-6-+-Oval-4-+-Oval-5-+-Oval-7" transform="translate(35.500000, 19.000000)" sketch:type="MSShapeGroup">
+                    <g id="Oval-4-+-Oval-5-+-Oval-6" transform="translate(6.500000, 6.500000) rotate(190.000000) translate(-6.500000, -6.500000) translate(1.000000, 1.000000)">
+                        <circle id="Oval-4" fill="#DDDCDC" cx="5.5" cy="5.5" r="5.5"></circle>
+                        <circle id="Oval-5" fill="#A4A4A4" cx="4" cy="4" r="3"></circle>
+                        <circle id="Oval-6" fill="#FFFFFF" cx="2" cy="3" r="1"></circle>
+                    </g>
+                    <g id="Oval-4-+-Oval-5-+-Oval-7" transform="translate(26.500000, 6.500000) rotate(190.000000) translate(-26.500000, -6.500000) translate(21.000000, 1.000000)">
+                        <circle id="Oval-4" fill="#DDDCDC" cx="5.5" cy="5.5" r="5.5"></circle>
+                        <circle id="Oval-5" fill="#A4A4A4" cx="4" cy="4" r="3"></circle>
+                        <circle id="Oval-6" fill="#FFFFFF" cx="2" cy="3" r="1"></circle>
+                    </g>
+                </g>
+                <g id="Oval-10-+-Oval-11" transform="translate(44.500000, 35.000000)" sketch:type="MSShapeGroup">
+                    <circle id="Oval-10" fill="#DCDCDC" cx="8" cy="8" r="8"></circle>
+                    <path d="M0.816477344,11.5250157 C2.11966364,14.1757197 4.84679007,16 8,16 C11.0923061,16 13.7748292,14.2455106 15.1064236,11.6776776 C15.2003708,11.4965108 15.2875935,11.3112954 15.3677613,11.122362 C15.7748301,10.1630132 16,8 16,8 C16,8 14,14.0533433 8,14 C2,13.9466567 0,8 0,8 C0,8 0.2936389,10.4615531 0.816477344,11.5250157 Z" id="Oval-11" fill="#B3B3B3"></path>
+                </g>
+                <path d="M103.079757,50.5 C102.702555,49.2325812 102.5,47.8899452 102.5,46.5 C102.5,38.7680135 108.768014,32.5 116.5,32.5 C124.231986,32.5 130.5,38.7680135 130.5,46.5 C130.5,54.2319865 124.231986,60.5 116.5,60.5 C116.498598,60.5 116.497195,60.4999998 116.495793,60.4999994 C116.494392,60.4999994 116.492989,60.5 116.491587,60.5 L69.5084131,60.5 C66.7344676,60.5 64.5,58.2614237 64.5,55.5 C64.5,52.7441952 66.7423429,50.5 69.5084131,50.5 L103.079757,50.5 Z" id="Oval-70" fill="#D0D0D0" filter="url(#filter-1)" sketch:type="MSShapeGroup"></path>
+                <path d="M112.955777,46.9972441 C116.03415,46.9044258 118.5,44.4787507 118.5,41.5 C118.5,38.4624339 115.935813,36 112.772727,36 C109.609642,36 107.045455,38.4624339 107.045455,41.5 C107.045455,42.0460499 107.128318,42.573514 107.282628,43.0714286 L93.4679986,43.0714286 C92.381103,43.0714286 91.5,43.9433059 91.5,45.0357143 C91.5,46.1205593 92.3856264,47 93.4679986,47 L112.850183,47 C112.885607,47 112.920813,46.9990739 112.955777,46.9972441 Z" id="Oval-69" fill="#A4A4A4" filter="url(#filter-2)" sketch:type="MSShapeGroup"></path>
+                <path d="M107.789879,63 C107.601278,62.3662906 107.5,61.6949726 107.5,61 C107.5,57.1340068 110.634007,54 114.5,54 C118.365993,54 121.5,57.1340068 121.5,61 C121.5,64.8659932 118.365993,68 114.5,68 C114.499299,68 114.498598,67.9999999 114.497897,67.9999997 C114.497196,67.9999997 114.496495,68 114.495793,68 L91.0042066,68 C89.6172338,68 88.5,66.8807119 88.5,65.5 C88.5,64.1096621 89.6211715,63 91.0042066,63 L107.789879,63 Z" id="Oval-71" fill="#FFFFFF" filter="url(#filter-3)" sketch:type="MSShapeGroup"></path>
+            </g>
+        </g>
+    </g>
+</svg>
